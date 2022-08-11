@@ -2,3 +2,7 @@ h1{
     font-size: large;
     color: blue;
 }
+p{
+    font-weight: 900;
+    background-color: bisque;
+}
